@@ -14,13 +14,16 @@ This is an open source program that can find images on the ecarn that you want o
 File have 128 mb
 
 # CSGO
-Video 1980/1080
 
 [Counter-strike-Global-Offensive Auto Accept](https://github.com/FoxRecoil1/ImageFinder/assets/124794323/78ab4b64-0504-4e92-a06d-342ad0438e1d)
 
 # How Worked
 
 [Image Finder](https://github.com/FoxRecoil1/ImageFinder/assets/124794323/04392896-8ed4-41cd-a622-bd23841c80e2)
+
+# How Locate My Image?
+
+[How locate my image](https://github.com/FoxRecoil1/ImageFinder/assets/124794323/bf200510-152d-4cf1-9382-bc85e4c2d014)
 
 # Links
 
